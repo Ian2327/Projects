@@ -1,0 +1,6 @@
+Field, Min, MinFile, Max, MaxFile, Mean, Median, StdDev
+lines, 0, InputRIPPSExternal.cc, 2662, fmnc_test_sequence.cc, 259.5419847328244, 104, 428.61081969799176
+include, 0, InputRIPPSExternal.cc, 20, IOModule.cc, 4.221374045801527, 4, 3.7029927113825067
+includelocal, 0, InputRIPPSExternal.cc, 19, IOModule.cc, 3.2290076335877864, 2, 3.1660819890646774
+memberfuncs, 0, RIPPS_Support.cc, 84, fmnc_test_sequence.cc, 12.732824427480915, 7, 18.54882307171698
+onelinefuncs, 0, RIPPS_Support.cc, 33, whirlwind_mastercache.cc, 3.6793893129770994, 1, 6.260089917727919
