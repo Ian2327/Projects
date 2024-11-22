@@ -1,0 +1,9 @@
+*.tar
+*.tar.gz
+*.zip
+*.eml
+*.csv
+sensitive/
+baddir/
+origaa.sh
+ec3.sh
