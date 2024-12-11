@@ -34,7 +34,7 @@ tickers_input = input("Enter the list of stocks tickers separated by commas ('q'
 tickers = []
 while tickers_input != "q":
     if not tickers_input:
-        tickers += ['AAPL', 'NVDA', 'MSFT'] if not tickers else []  # Add default tickers here
+        tickers += ['AAPL', 'AMZN', 'NVDA', 'TSLA'] if not tickers else []  # Add default tickers here
     else:
         tickers += [ticker.strip() for ticker in tickers_input.split(',')]
 
